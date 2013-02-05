@@ -1,0 +1,1 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"%><html>    <head>        <title>Hello Web Spring Java Config (by edertech)</title>    </head>    <body>        <h2>${hello.description}!</h2>    </body></html>

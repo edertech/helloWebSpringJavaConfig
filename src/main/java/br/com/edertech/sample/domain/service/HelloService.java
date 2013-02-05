@@ -1,0 +1,1 @@
+package br.com.edertech.sample.domain.service;import br.com.edertech.sample.domain.model.Hello;/*** *  * Simulation of domain service *  * @author edertech *  */public interface HelloService {	Hello getHello();}

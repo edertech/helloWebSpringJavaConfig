@@ -1,0 +1,1 @@
+package br.com.edertech.sample.domain.model;/*** *  * Simulation of a domain model *  * @author edertech *  */public class Hello {	private String description;		public Hello(String description) {		this.description = description;    }		public String getDescription() {	    return description;    }}

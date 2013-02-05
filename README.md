@@ -1,0 +1,1 @@
+hello Web with Spring MVC and JavaConfig withoud XML
